@@ -18,6 +18,6 @@ npm install
 npm run dev
 npm run build
 
-cd bakend
+cd backend
 npm run dev
 
